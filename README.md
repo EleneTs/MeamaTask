@@ -1,6 +1,7 @@
 # MeamaTask
 
 Application uses postgresql databases
+To connect database, postgre sql username and password must be provided in application.properies
 
 When Application is started - one admin is created
 username: test@test.com
